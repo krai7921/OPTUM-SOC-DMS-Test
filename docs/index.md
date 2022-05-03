@@ -1,5 +1,5 @@
 ---
-title: The Sphinx Book Theme
+title: The SOC DMS Portal
 ---
 
 ::::{grid}
@@ -10,7 +10,7 @@ title: The Sphinx Book Theme
 :::{grid-item}
 :columns: 4
 
-```{image} ./_static/logo-square.svg
+```{image} ./_static/soc.jpeg
 :width: 150px
 ```
 :::
