@@ -22,7 +22,7 @@ Analysis File
 Behavior Analysis
 ---------------------
 
- ![]![](./customize/Behavior.jpg)
+ ![](./customize/Behavior.jpg)
 
 
 Dropped File 
