@@ -33,7 +33,7 @@ The following topic areas will help you understand and use the theme.
 :caption: Topic Areas
 
 tutorials/get-started
-customize/index
+customize/SOP
 content-blocks
 notebooks
 launch
