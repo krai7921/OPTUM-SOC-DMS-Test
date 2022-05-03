@@ -3,9 +3,9 @@ import os
 from pathlib import Path
 from urllib import request
 
-project = "Sphinx Book Theme"
-copyright = "2020"
-author = "the Executable Book Project"
+project = "SOC DMS"
+copyright = "2022
+author = "KRAI7921"
 # language = "fr"  # For testing language translations
 
 master_doc = "index"
@@ -73,7 +73,7 @@ myst_enable_extensions = [
 #
 html_theme = "sphinx_book_theme"
 html_logo = "_static/logo-wide.svg"
-html_title = "Sphinx Book Theme"
+html_title = "SOC DMS"
 html_copy_source = True
 html_sourcelink_suffix = ""
 html_favicon = "_static/logo-square.svg"
