@@ -4,7 +4,7 @@ from pathlib import Path
 from urllib import request
 
 project = "SOC DMS"
-copyright = "2022
+copyright = "2022"
 author = "KRAI7921"
 # language = "fr"  # For testing language translations
 
