@@ -1,75 +1,13 @@
-# Customization
+# SOP
 
-These sections describe a few ways that you may customize the look and feel of your theme.
+SOP stands for Standard Operating Procedures, which are the set of documents and processes used by a business where the management records the business operations regarding the delivery and follow-up of the products and services over time
 
-## Theme options
+## Malware Anlysis
 
-The following options are available via `html_theme_options`
+Malware analysis is the process of determining the purpose and functionality of a piece of malware. This process will reveal what type of harmful program has infected your network, the damage it’s capable of causing, and—most importantly—how to remove it. Malware analysis used to be performed manually by experts in a time-consuming and cumbersome process. Today, there are a number of open-source malware analysis tools that can perform this process automatically
 
-```{list-table}
-:widths: 10 5 40
-:header-rows: 1
-* - Key
-  - Type
-  - Description
-* - `single_page`
-  - bool
-  - Remove the left sidebar and treat the site as a single page. See [](customize:single-page).
-* - `path_to_docs`
-  - string
-  - Path to the documentation, relative to the repository root (e.g. `docs/`). See [](customize:source-files).
-* - `repository_url`
-  - string
-  - URL of the repository for the documentation (e.g. the GitHub repository URL). See [](source-files:repository).
-* - `repository_branch`
-  - string
-  - Branch of the repository for the documentation (e.g., `master`, `main`, `docs`). See [](source-files:repository).
-* - `use_issues_button`
-  - bool
-  - Add an button in the header with a link to issues for the repository (used in conjunction with `repository_url` and `repository_branch`). See  [](source-files:repository).
-* - `use_download_button`
-  - bool
-  - Add a button in the header to download the source file of the page. See [](customize:source-files).
-* - `use_fullscreen_button`
-  - bool
-  - Add a button in the header to trigger full-screen mode.
-* - `use_repository_button`
-  - bool
-  - Add a button in the header that links to the repository of the documentation.See [](source-files:repository).
-* - `launch_buttons`
-  - bool
-  - Include Binder launch buttons for pages that were built from Jupyter Notebooks. See [](customize:launch).
-* - `home_page_in_toc`
-  - bool
-  - Whether to put the home page in the Navigation Bar (at the top). See [](sidebar-primary:home-page).
-* - `logo_only`
-  - bool
-  - Only display the logo, not `html_title` if it exists.
-* - `show_navbar_depth`
-  - int
-  - Show children in the navigation bar down to the depth listed here. See [](sidebar:navbar-depth).
-* - `extra_navbar`
-  - str
-  - Extra HTML to add below the sidebar footer. See [](custom-footer).
-* - `extra_footer`
-  - str
-  - Extra HTML to add in the footer of each page.
-* - `toc_title`
-  - str
-  - The text to be displayed with the in-page TOC (`Contents` is default)
-```
+Examining the capabilities of malicious software allows you to better assess the nature of a security incident, and may help prevent further infections. Here’s how to set up a controlled malware analysis lab—for free.
 
-## Customization Topics
+## Step 1: Allocate systems for the analysis lab
 
-The following sections describe a few ways to customize the theme in more depth.
-
-```{toctree}
-sidebar-primary.md
-sidebar-secondary.md
-announcements.md
-header.md
-download.md
-source-files.md
-custom-css.md
-single-page.md
-```
+A common approach to examining malicious software involves infecting a system with the malware specimen and then using the appropriate monitoring tools to observe how it behaves. This requires a laboratory system you can infect without affecting your production environment. The most popular and flexible way to set up such a lab system involves virtualization software, which allows you to use a single physical computer for hosting multiple virtual systems,each running a potentially different operating system.Running multiple virtual systems simultaneously on a single physical computer is useful for analyzing malware that seeks to interact with other systems, perhaps for leaking data, obtaining instructions from the attacker, or upgrading itself. Virtualization makes it easy to set up and use such systems without procuring numerous physical boxes.
