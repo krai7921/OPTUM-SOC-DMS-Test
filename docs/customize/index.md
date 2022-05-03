@@ -11,3 +11,21 @@ Examining the capabilities of malicious software allows you to better assess the
 ## Step 1: Allocate systems for the analysis lab
 
 A common approach to examining malicious software involves infecting a system with the malware specimen and then using the appropriate monitoring tools to observe how it behaves. This requires a laboratory system you can infect without affecting your production environment. The most popular and flexible way to set up such a lab system involves virtualization software, which allows you to use a single physical computer for hosting multiple virtual systems,each running a potentially different operating system.Running multiple virtual systems simultaneously on a single physical computer is useful for analyzing malware that seeks to interact with other systems, perhaps for leaking data, obtaining instructions from the attacker, or upgrading itself. Virtualization makes it easy to set up and use such systems without procuring numerous physical boxes.
+
+  .. Caution:: 
+
+    This test steps for Malware analysis.
+
+
+Analysis File
+------------------
+Behavior Analysis
+---------------------
+
+.. image:: Behavior.jpg
+
+
+Dropped File 
+------------------------
+
+   .. image:: DropFile.jpg
