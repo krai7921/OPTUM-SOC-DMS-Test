@@ -10,7 +10,7 @@ title: The SOC DMS Portal
 :::{grid-item}
 :columns: 4
 
-```{image} ./_static/soc.jpeg
+```{image} ./_static/soc.jpg
 :width: 150px
 ```
 :::
