@@ -22,10 +22,10 @@ Analysis File
 Behavior Analysis
 ---------------------
 
-.. image:: Behavior.jpg
+ ![]![](./customize/Behavior.jpg)
 
 
 Dropped File 
 ------------------------
 
-   .. image:: DropFile.jpg
+ ![](./customize/DropFile.jpg)
