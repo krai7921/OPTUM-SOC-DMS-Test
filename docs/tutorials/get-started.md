@@ -1,14 +1,8 @@
 # Get started
 
-This is a short step-by-step tutorial to get started with the Sphinx Book Theme for SOC DMS portal
+This is Optum SOC DMS portal, where you'll find all SOPs, process documents, troubleshooting documents, workflows, training plans, etc. regarding Optum's SOC processes.
+
 
 :::{note}
-This documentation and the examples below are written as SOC based documentation purpose
+The documentation contains SOPs and other reference materials in web page layouts.
 :::
-
-## Prerequisites
-You should have the doc file available for creating the content on github. This is a intial request . If required we will modify the requirement
-
-
-:::{note}
-If you don't have editable read file, you can create for us .
