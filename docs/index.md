@@ -15,12 +15,12 @@
 :columns: 8
 :class: sd-fs-3
 
-Welcome to Optum SOC Document Management System. Your on-stop shop for everything you need-to-know under the sun, with regards to Optum SOC.
+Welcome to Optum SOC Document Management System. Your one-stop shop for everything you need-to-know under the sun, with regards to Optum SOC.
 :::
 
 # Topic areas
 
-The following topic areas will help you understand and use the theme.
+The following topic areas will help you find and explore the Optum SOC documents.
 
 ```{toctree}
 :maxdepth: 1
