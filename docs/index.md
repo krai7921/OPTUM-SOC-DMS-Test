@@ -1,7 +1,7 @@
 # Optum SOC Home Page
 
 :::{grid-item}
-:columns: 4
+:columns: 8
 
 Welcome to Optum SOC Document Management System. Your one-stop shop for everything you need-to-know under the sun, with regards to Optum SOC.
 :::
