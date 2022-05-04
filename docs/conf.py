@@ -73,10 +73,11 @@ myst_enable_extensions = [
 #
 html_theme = "sphinx_book_theme"
 html_logo = "_static/Optum.png"
+width: 300px
 html_title = "SOC DMS"
 html_copy_source = True
 html_sourcelink_suffix = ""
-html_favicon = "_static/DMS.jpg"
+html_favicon = "_static/Optum.png"
 html_last_updated_fmt = ""
 
 html_sidebars = {
