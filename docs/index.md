@@ -31,8 +31,4 @@ The following topic areas will help you understand and use the theme.
 
 tutorials/get-started
 customize/SOP
-content-blocks
-notebooks
-launch
-contributing/index
 ```
