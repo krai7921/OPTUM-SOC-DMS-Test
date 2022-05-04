@@ -15,9 +15,7 @@
 :columns: 8
 :class: sd-fs-3
 
-Welcome to SOC DMS’s documentation
-Document management is a system or process used to capture, track and store electronic documents such as PDFs, word processing files and digital images of paper-based content.
-Document management can save you time and money. It provides document security, access control, centralized storage, audit trails and streamlined search and retrieval
+Welcome to Optum SOC Document Management System. Your on-stop shop for everything you need-to-know under the sun, with regards to Optum SOC.
 :::
 
 # Topic areas
