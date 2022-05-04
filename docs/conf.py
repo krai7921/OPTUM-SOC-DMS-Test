@@ -119,7 +119,7 @@ html_theme_options = {
     "use_download_button": True,
     "logo_only": True,
     "show_toc_level": 2,
-    "announcement": (
+    #"announcement": (
         "⚠️The latest release refactored our HTML, "
         "so double-check your custom CSS rules!⚠️"
     ),
