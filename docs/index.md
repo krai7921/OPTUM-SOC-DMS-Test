@@ -1,10 +1,5 @@
 # Optum SOC Home Page
 
-::::{grid}
-:reverse:
-:gutter: 2 1 1 1
-:margin: 4 4 1 1
-
 :::{grid-item}
 :columns: 4
 
