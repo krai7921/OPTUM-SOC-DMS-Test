@@ -1,5 +1,4 @@
----
-title: The SOC DMS Portal
+# The SOC DMS Portal 
 
 
 ::::{grid}
