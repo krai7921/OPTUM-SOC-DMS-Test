@@ -30,5 +30,5 @@ The following topic areas will help you understand and use the theme.
 :caption: Topic Areas
 
 tutorials/get-started
-customize/SOP
+customize/Malware-Analysis-SOP
 ```
