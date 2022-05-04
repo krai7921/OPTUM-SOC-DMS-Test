@@ -1,6 +1,3 @@
----
-title: The SOC DMS Portal
----
 Welcome to SOC DMS’s documentation
 Document management is a system or process used to capture, track and store electronic documents such as PDFs, word processing files and digital images of paper-based content.Document management can save you time and money. It provides document security, access control, centralized storage, audit trails and streamlined search and retrieval
 :::
