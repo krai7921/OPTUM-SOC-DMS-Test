@@ -72,7 +72,7 @@ myst_enable_extensions = [
 # a list of builtin themes.
 #
 html_theme = "sphinx_book_theme"
-html_logo = "_static/DMS.jpg"
+html_logo = "_static/Optum.png"
 html_title = "SOC DMS"
 html_copy_source = True
 html_sourcelink_suffix = ""
